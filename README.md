@@ -1,16 +1,40 @@
-## Hi there 👋
+# ひな型
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <style>
+            :root {
+                --background: #0F172A;
+                --text: #F8FAFC;
+                --card-background: #20293a83;
+            }
 
-<!--
-**intecs2609ap03-prog/intecs2609ap03-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+            * {
+                font-size: 30;
+            }
 
-Here are some ideas to get you started:
+            html {
+                background-color: var(--background);
+                color: var(--text);
+            }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            .card {
+                background-color: var(--background);
+                padding: 20px;
+                margin: 10px;
+                border-radius: 10px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Hello MyTemplate!</h1>
+    </body>
+</html>
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intecs2609ap03-prog&show_icons=true&theme=tokyonight)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intecs2609ap03-prog&layout=compact&theme=tokyonight)<br>
