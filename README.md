@@ -1,7 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intecs2609ap03-prog&show_icons=true&theme=tokyonight)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intecs2609ap03-prog&layout=compact&theme=tokyonight)<br>
 
-# ひな型
+# お気に入りのひな型
 ```html
 <!DOCTYPE html>
 <html>
