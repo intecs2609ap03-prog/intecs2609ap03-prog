@@ -1,5 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intecs2609ap03-prog&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intecs2609ap03-prog&layout=compact&theme=tokyonight)<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=intecs2609ap03-prog&repo=SmallDiContainer)](https://github.com/intecs2609ap03-prog/SmallDiContainer)
 
 # お気に入りのひな型
 ```html
