@@ -1,5 +1,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=intecs2609ap03-prog&layout=compact&theme=tokyonight) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=intecs2609ap03-prog&theme=tokyonight)](https://git.io/streak-stats)<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=intecs2609ap03-prog&theme=tokyonight)<br>
 
 # お気に入りのひな型
 ```json
