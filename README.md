@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?intecs2609ap03-prog&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=intecs2609ap03-prog&theme=tokyonight)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intecs2609ap03-prog&theme=github_dark)
+![](https://streak-stats.demolab.com?user=intecs2609ap03-prog&theme=github_dark)
 
 # お気に入りのひな型
 ```json
