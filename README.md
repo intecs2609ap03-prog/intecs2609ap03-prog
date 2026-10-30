@@ -1,7 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intecs2609ap03-prog&theme=github_dark)
 ![](https://streak-stats.demolab.com?user=intecs2609ap03-prog&theme=github_dark)
 
-# お気に入りのひな型
+# お気に入りのHTMLひな型
 ```json
 {
   "Bootstrap5 Dark Simple Template": {
@@ -34,3 +34,34 @@
   }
 }
 ```
+# お気に入りのPHPフロントコントローラー用ひな型
+```json
+{
+  "Single Front Controller": {
+    "prefix": "fctrl",
+    "body": [
+      "//シングルフロントコントローラー",
+      "\\$requestMethod = \\$_SERVER['REQUEST_METHOD'];",
+      "if (\\$requestMethod !== 'GET' && \\$requestMethod !== 'POST') ",
+      "    clientError(\"本システムではGET/POST以外対応していません。\");",
+      "",
+      "\\$path = null;",
+      "if (\\$requestMethod === 'GET') \\$path = \\$_GET['path'] ?? null; ",
+      "else if (\\$requestMethod === 'POST') \\$path = \\$_POST['path'] ?? null;",
+      "",
+      "if (is_null(\\$path)) clientError(\"pathクエリ/パラメータが指定されていません。\");",
+      "else if (\\$path === \"home\") HomeAction();",
+      "",
+      "function ClientErrorAcction(\\$errorMsg) {",
+      "    //クライアントエラー用のページを表示してください。",
+      "}",
+      "",
+      "function HomeAction() {",
+      "    //初期ページを表示してください。",
+      "}"
+    ],
+    "description": "シングルフロントコントローラーの基本構造"
+  }
+}
+```
+
