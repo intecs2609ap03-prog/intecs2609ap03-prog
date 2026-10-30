@@ -30,7 +30,7 @@
       "  </body>",
       "</html>"
     ],
-    "description": "Bootstrap 5 & Animate.css Dark Simple Template"
+    "description": "オレオレHTMLひな型"
   }
 }
 ```
